@@ -34,11 +34,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height "40" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="sql logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354427/tableau.svg" height="40" alt="tableau logo"  />
+  <img src="https://www.svgrepo.com/show/306830/tableau.svg" height="40" alt="tableau logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/file-excel/file-excel-plain.svg" height="40" alt="excel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="excel logo" />
 </div>
